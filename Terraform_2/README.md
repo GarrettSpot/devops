@@ -1,6 +1,6 @@
 …/session19-cloud-terraform/06-terraform-vpc main ? ❯ aws configure
-AWS Access Key ID [****************NJNR]: AKIAUNUOAS4LYQRPNJNR
-AWS Secret Access Key [****************dxgi]: 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
+AWS Access Key ID [****************NJ
+AWS Secret Access Key [****************
 Default region name [us-east-1]: us-west-1
 Default output format [json]: 
 
